@@ -1,0 +1,6 @@
+cmake-build-debug/
+plots/.venv/
+plots/.idea/
+a1
+a1i
+*.o
